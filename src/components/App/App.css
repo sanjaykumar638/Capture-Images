@@ -1,0 +1,37 @@
+.App {
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f0f0f0; 
+}
+
+.button {
+  margin-bottom: 20px;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #8abbee;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+}
+
+button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+
+  
+.images{
+  height: 100;
+  width: 100;
+}
+
